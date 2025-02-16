@@ -19,6 +19,6 @@ This software is essential for our RTL coding, simulation, and synthesis(we can 
 Here in these tasks you will be learning how to code RTL(Verilog) and Simulation(testing and verifying the behavior of a digital design) and Synthesis(transforming the RTL code into a gate-level representation).
 
 ## NOTE:-
-- Submission instructions will be provided shortly please complete the "Startup the Essentials (Installation)" and make sure you go through the "instructions" to know the basics.
+- Submission instructions will be provided shortly please complete the "Startup the Essentials (Installation)" and make sure you go through the ["instructions"](Instructions.md) to know the basics.
 - ANY form of plagiarism will not be entertained and you will be disqualified if your repo is found to be plagiarised.
 

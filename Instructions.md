@@ -4,7 +4,7 @@ First of all have a Github account if you dont have it then refer this [link](ht
 
 # INSTRUCTIONS TO CREATE YOUR REPOSITORY
 
-Refer this [tutorial video ](https://www.youtube.com/watch?v=f26KI43FK58) to know how to create a repository
+Refer this [tutorial video ](https://www.youtube.com/watch?v=-RZ03WHqkaY&ab_channel=GitHub) to know how to create a repository
 
 You need to create a new repository as Follows
 

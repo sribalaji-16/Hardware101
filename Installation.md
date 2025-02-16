@@ -12,4 +12,4 @@ After selecting you need to sign up and then only it allows you to download the 
 
 Refer the [tutorial video](https://www.youtube.com/watch?v=fBFn32Al0yw) for further installation 
 
-Remember dont leave any steps and any mistakes while downloading which may leads to error while working on with it!!!
+Remember dont leave any steps and make any mistakes while downloading which may leads to error while working on with it!!!

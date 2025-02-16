@@ -18,3 +18,7 @@ Vivado Design Suite is a powerful tool developed by Xilinx for designing and imp
 This software is essential for our RTL coding, simulation, and synthesis(we can also use other software such as Intel Quartus Prime,Cadence Genus Synthesis Solution,etc for doing RTL coding simulation and synthesis but here in this workshop we will teach you and provide hands on experience in working with FPGA by using Vivado Design suite)
 Here in these tasks you will be learning how to code RTL(Verilog) and Simulation(testing and verifying the behavior of a digital design) and Synthesis(transforming the RTL code into a gate-level representation).
 
+## NOTE:-
+- Submission instructions will be provided shortly please complete the "Startup the Essentials (Installation)" and make sure you go through the "instructions" to know the basics.
+- ANY form of plagiarism will not be entertained and you will be disqualified if your repo is found to be plagiarised.
+

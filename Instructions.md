@@ -26,4 +26,7 @@ The status should be as TASK-X -> (task 1.md , task 2.md , task 3.md .....) thes
 
 If you dont know how to upload screenshot in the md file refer this [link](https://www.youtube.com/watch?v=lS65X0U1rp4)
 
+### NOTE:-
+ANY form of plagiarism will not be entertained and you will be disqualified if your repo is found to be plagiarised.
+
 

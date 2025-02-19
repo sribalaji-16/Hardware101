@@ -27,11 +27,11 @@ In Task 1, you will learn the basics from [HDL Bits](https://hdlbits.01xz.net/wi
 
 - Then initially sign up in [HDL bits](https://hdlbits.01xz.net/wiki/Main_Page) and maintain the same account so that at last task you will be asked to submit the screenshot of your hdl bits completion status! 
 
-## In thiz task 1 please work on the "Get Started" and "Basics" sections and complete them in your [HDL bits](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started) account(link is directly attached to problem statement).
+In thiz task 1 please work on the "Get Started" and "Basics" sections and complete them in your [HDL bits](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started) account(link is directly attached to problem statement).
 
 - To complete this you should need to know the theory and implementation of it using verilog (where the referal links are attached) so learn [theory](https://www.geeksforgeeks.org/logic-gates/) , then you can learn verilog implementation method to implement in hdl bits for this you can refer these youtube channels "[Why RD?](https://www.youtube.com/watch?v=t27AV5XQrGE&list=PL0E9jhuDlj9qxAfV9hFKNQeHLWimarJJm)" and "[WhiteBrackets](https://www.youtube.com/watch?v=uGHlqV2N3bw&list=PLoZS1MH9uqWDYCf6fHLchYS2r1bQFcv3d)"
 
-## After that, proceed with the implementation in Xilinx Vivado.
+After that, proceed with the implementation in Xilinx Vivado.
 
 - You can refer this [youtube video](https://www.youtube.com/watch?v=sA5YEIFzCOw) to implement in Xilinux vivado.
 

@@ -27,7 +27,9 @@ In Task 1, you will learn the basics from [HDL Bits](https://hdlbits.01xz.net/wi
 
 - Then initially sign up in [HDL bits](https://hdlbits.01xz.net/wiki/Main_Page) and maintain the same account so that at last task you will be asked to submit the screenshot of your hdl bits completion status! 
 
-In thiz task 1 please work on the "[Get Started](https://hdlbits.01xz.net/wiki/Step_one)" and "[Basics](https://hdlbits.01xz.net/wiki/Wire)" sections and complete them in your HDL bits account(link is directly attached to problem statement).
+In thiz task 1 you will be working on with the "[Get Started](https://hdlbits.01xz.net/wiki/Step_one)" and "[Basics](https://hdlbits.01xz.net/wiki/Wire)" sections and complete them in your HDL bits account(link is directly attached to problem statement) .
+
+Whenever you complete each section your completed secction will be marked into green such as this ![IMG-20250219-WA0061 1](https://github.com/user-attachments/assets/dc9ced2b-8b26-479a-bf0d-eb39fd127439)
 
 - To complete this you should need to know the theory and implementation of it using verilog (where the referal links are attached) so learn [theory](https://www.geeksforgeeks.org/logic-gates/) , then you can learn verilog implementation method to implement in hdl bits by refering these youtube channels "[Why RD?](https://www.youtube.com/watch?v=t27AV5XQrGE&list=PL0E9jhuDlj9qxAfV9hFKNQeHLWimarJJm)" and "[WhiteBrackets](https://www.youtube.com/watch?v=uGHlqV2N3bw&list=PLoZS1MH9uqWDYCf6fHLchYS2r1bQFcv3d)"
 

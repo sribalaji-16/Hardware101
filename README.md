@@ -20,7 +20,7 @@ Here in these tasks you will be learning how to code RTL(Verilog) and Simulation
 
 # Task 1
 
-In Task 1, you will learn the basics from [HDL Bits](https://hdlbits.01xz.net/wiki/Main_Page) and implementing them using Xilinx Vivado.
+In Task 1, you will learn the basics from [HDL Bits](https://hdlbits.01xz.net/wiki/Main_Page) and implementing them using Xilinx Vivado later on in the workshop.
 
 ## Note!
 - Don't forget to document your progress by taking screenshots as you work. Upload these screenshots to your given GitHub account. If you need help with this process, please review the [instructions](Instructions.md) again.

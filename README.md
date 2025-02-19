@@ -37,7 +37,7 @@ After that, proceed with the implementation in Xilinx Vivado.
 
 - You can refer this [youtube video](https://www.youtube.com/watch?v=sA5YEIFzCOw) to implement in Xilinux vivado.
 
-If you have any doubt feel free to ask them in Whatsapp group.
+If you have any doubt feel free to ask that in Whatsapp group.
 
 ## NOTE:-
 - Submission instructions will be provided shortly please complete the "Startup the Essentials (Installation)" and make sure you go through the ["instructions"](Instructions.md) to know the basics.

@@ -29,7 +29,7 @@ In Task 1, you will learn the basics from [HDL Bits](https://hdlbits.01xz.net/wi
 
 In thiz task 1 please work on the "[Get Started](https://hdlbits.01xz.net/wiki/Step_one)" and "[Basics](https://hdlbits.01xz.net/wiki/Wire)" sections and complete them in your HDL bits account(link is directly attached to problem statement).
 
-- To complete this you should need to know the theory and implementation of it using verilog (where the referal links are attached) so learn [theory](https://www.geeksforgeeks.org/logic-gates/) , then you can learn verilog implementation method to implement in hdl bits for this you can refer these youtube channels "[Why RD?](https://www.youtube.com/watch?v=t27AV5XQrGE&list=PL0E9jhuDlj9qxAfV9hFKNQeHLWimarJJm)" and "[WhiteBrackets](https://www.youtube.com/watch?v=uGHlqV2N3bw&list=PLoZS1MH9uqWDYCf6fHLchYS2r1bQFcv3d)"
+- To complete this you should need to know the theory and implementation of it using verilog (where the referal links are attached) so learn [theory](https://www.geeksforgeeks.org/logic-gates/) , then you can learn verilog implementation method to implement in hdl bits by refering these youtube channels "[Why RD?](https://www.youtube.com/watch?v=t27AV5XQrGE&list=PL0E9jhuDlj9qxAfV9hFKNQeHLWimarJJm)" and "[WhiteBrackets](https://www.youtube.com/watch?v=uGHlqV2N3bw&list=PLoZS1MH9uqWDYCf6fHLchYS2r1bQFcv3d)"
 
 After that, proceed with the implementation in Xilinx Vivado.
 

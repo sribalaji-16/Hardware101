@@ -1,8 +1,8 @@
-# INSTRUCTIONS TO CREATE YOUR GITHUB ACCOUNT
+# Instructions to create your Github account
 
 First of all have a Github account if you dont have it then refer this [link](https://www.youtube.com/watch?v=Gn3w1UvTx0A) which will guide you how to open github account
 
-# INSTRUCTIONS TO CREATE YOUR REPOSITORY
+# Instructions to create your repository
 
 Refer this [tutorial video ](https://www.youtube.com/watch?v=-RZ03WHqkaY&ab_channel=GitHub) to know how to create a repository
 
@@ -16,7 +16,7 @@ You need to create a new repository as Follows
 
 -->Select the licence for your repo
 
-# INSTRUCTIONS TO UPLOAD TASKS (you can also use github desktop to organize the files)
+# Instructions to upload your tasks (you can also use github desktop to organize the files)
 
 Make a folder (iff wish to organize your work) as task and upload the task completion status like create a new file task 1 ,task 2,... as md file in it the file system 
 

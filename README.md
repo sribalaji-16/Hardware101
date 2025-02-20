@@ -20,6 +20,7 @@ Here in these tasks you will be learning how to code RTL(Verilog) and Simulation
 
 # Task 1
 
+## Day 1
 In Task 1, you will learn the basics from [HDL Bits](https://hdlbits.01xz.net/wiki/Main_Page) and implementing them using Xilinx Vivado later on in the workshop.
 
 ## Note!
@@ -39,7 +40,7 @@ After that, proceed with the implementation in Xilinx Vivado.
 
 If you have any doubt feel free to ask that in Whatsapp group.
 
-day 2:-
+## Day 2:-
 
 Prerequisites of TASK I day 2 are making gates in verilog (day 1....so please do complete it and come here)
 

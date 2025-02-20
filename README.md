@@ -39,6 +39,27 @@ After that, proceed with the implementation in Xilinx Vivado.
 
 If you have any doubt feel free to ask that in Whatsapp group.
 
+day 2:-
+
+Prerequisites of TASK I day 2 are making gates in verilog (day 1....so please do complete it and come here)
+
+the actual task 
+- [Wire_decl](https://hdlbits.01xz.net/wiki/Wire_decl)
+- [coding for 7458 chip](https://hdlbits.01xz.net/wiki/7458)
+
+TASK II (sequential circuits)
+ HERE WE LEARN AND IMPLEMENT sequential circuits (dificulty is set to medium)
+
+PREREQUISITES :- 
+
+- [watch this vid to get a reason on WHY we need to go into sequential ckts in FPGAs....](https://www.youtube.com/watch?v=N-za84TsjDk)
+- [WHAT IS THE "ALWAYS" block and how to code for it...(whyrd-hdlbits)](https://www.youtube.com/watch?v=eG9Gr0gYcQA)
+
+Solve the problems lited below (ONLY AFTER REFFERING TO THE ABOVE VIDS) 
+- [prob-1](https://hdlbits.01xz.net/wiki/Alwaysblock1)
+- [prob-2](https://hdlbits.01xz.net/wiki/Alwaysblock2)
+
+
 ## NOTE:-
 - Submission instructions will be provided shortly please complete the "Startup the Essentials (Installation)" and make sure you go through the ["instructions"](Instructions.md) to know the basics.
 - ANY form of plagiarism will not be entertained and you will be disqualified if your repo is found to be plagiarised.

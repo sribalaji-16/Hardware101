@@ -42,13 +42,6 @@ If you have any doubt feel free to ask that in Whatsapp group.
 
 ## Day 2:-
 
-Prerequisites of TASK I day 2 are making gates in verilog (day 1....so please do complete it and come here)
-
-the actual task 
-- [Wire_decl](https://hdlbits.01xz.net/wiki/Wire_decl)
-- [coding for 7458 chip](https://hdlbits.01xz.net/wiki/7458)
-
-TASK II (sequential circuits)
  HERE WE LEARN AND IMPLEMENT sequential circuits (dificulty is set to medium)
 
 PREREQUISITES :- 

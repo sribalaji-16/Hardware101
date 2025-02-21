@@ -53,6 +53,23 @@ Solve the problems lited below (ONLY AFTER REFFERING TO THE ABOVE VIDS)
 - [prob-1](https://hdlbits.01xz.net/wiki/Alwaysblock1)
 - [prob-2](https://hdlbits.01xz.net/wiki/Alwaysblock2)
 
+## Day 3:-
+
+ HERE WE LEARN AND IMPLEMENT STATEMENTS (dificulty is set to medium) 
+
+Solve the problems lited below (ONLY AFTER REFFERING TO THE ABOVE VIDS) 
+
+[If statement](https://hdlbits.01xz.net/wiki/Always_if)
+
+[If statement latches](https://hdlbits.01xz.net/wiki/Always_if2)
+
+[Case statement](https://hdlbits.01xz.net/wiki/Always_case)
+
+[priority encoder](https://hdlbits.01xz.net/wiki/Always_case2)
+
+[priority encoder with casez](https://hdlbits.01xz.net/wiki/Always_casez)
+
+[Avoiding latches](https://hdlbits.01xz.net/wiki/Always_nolatches)
 
 ## NOTE:-
 - Submission instructions will be provided shortly please complete the "Startup the Essentials (Installation)" and make sure you go through the ["instructions"](Instructions.md) to know the basics.

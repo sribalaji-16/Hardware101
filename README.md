@@ -57,7 +57,7 @@ Solve the problems lited below (ONLY AFTER REFFERING TO THE ABOVE VIDS)
 
  HERE WE LEARN AND IMPLEMENT STATEMENTS (dificulty is set to medium) 
 
-Solve the problems lited below (ONLY AFTER REFFERING TO THE ABOVE VIDS) 
+Solve the problems lited below
 
 [If statement](https://hdlbits.01xz.net/wiki/Always_if)
 

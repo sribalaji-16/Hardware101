@@ -71,6 +71,27 @@ Solve the problems lited below
 
 [Avoiding latches](https://hdlbits.01xz.net/wiki/Always_nolatches)
 
+## Day 4:-
+
+#### ~~Arrays~~ Vectors in Verilog: Key Concepts for Memory Declarations
+
+In Verilog, arrays and vectors are essential when working with memory
+declarations, whether it’s for RAMs, ROMs, or other memory structures.
+Whether the memory is segmented or a single block, if there is a memory,
+you will find vectors involved.
+
+Refer this [vector
+video](https://www.youtube.com/watch?v=eA4O2BbNW2s&list=PL0E9jhuDlj9qxAfV9hFKNQeHLWimarJJm&index=4)
+to understand and implement.
+
+Start by clicking this to work on with
+[vectors](https://hdlbits.01xz.net/wiki/Vector0)
+
+#### complete the following :)
+![image](https://github.com/user-attachments/assets/42ee6841-5cec-4972-b982-2753c8a1735b)
+
+
+
 ## NOTE:-
 - Submission instructions will be provided shortly please complete the "Startup the Essentials (Installation)" and make sure you go through the ["instructions"](Instructions.md) to know the basics.
 - ANY form of plagiarism will not be entertained and you will be disqualified if your repo is found to be plagiarised.

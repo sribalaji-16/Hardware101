@@ -96,3 +96,7 @@ Start by clicking this to work on with
 - Submission instructions will be provided shortly please complete the "Startup the Essentials (Installation)" and make sure you go through the ["instructions"](Instructions.md) to know the basics.
 - ANY form of plagiarism will not be entertained and you will be disqualified if your repo is found to be plagiarised.
 
+## Day 3:-
+
+- [prob-1](https://hdlbits.01xz.net/wiki/Dff8)
+- [prob-2](https://hdlbits.01xz.net/wiki/Count15)
